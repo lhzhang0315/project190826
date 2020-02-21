@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Guli-Video/Guli-Video.iml" filepath="$PROJECT_DIR$/Guli-Video/Guli-Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hive-Test/Hive-Test.iml" filepath="$PROJECT_DIR$/Hive-Test/Hive-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZK-Test/ZK-Test.iml" filepath="$PROJECT_DIR$/ZK-Test/ZK-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/az-test/az-test.iml" filepath="$PROJECT_DIR$/az-test/az-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-test/flume-test.iml" filepath="$PROJECT_DIR$/flume-test/flume-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-test/hbase-test.iml" filepath="$PROJECT_DIR$/hbase-test/hbase-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-test/kafka-test.iml" filepath="$PROJECT_DIR$/kafka-test/kafka-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project190826.iml" filepath="$PROJECT_DIR$/project190826.iml" />
+    </modules>
+  </component>
+</project>
